@@ -1,0 +1,11 @@
+Code Book
+
+Year- Year
+League- League Association
+TeamID- Database Key
+Team City- City of the team
+Games- Games Played
+Playoffs- Playoff Picture Results
+DivWin- Binary Division Winners
+Cumulative Attendance- Cummulative Attendance for Year
+ATT_Group- Grouping by Attendance

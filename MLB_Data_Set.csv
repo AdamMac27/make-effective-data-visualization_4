@@ -1,0 +1,31 @@
+Year,League,TeamID,Team City,Games,Playoffs,DivWin,Cumulative Attendance,ATT_Group
+2014,AL,BAL,Baltimore,162,Division Winner,Y,2464473,Average
+2014,AL,DET,Detroit,162,Division Winner,Y,2917209,Good
+2014,AL,LAA,Los Angeles Angels,162,Division Winner,Y,3095935,Good
+2014,NL,LAD,Los Angeles Dodgers,162,Division Winner,Y,3782337,Good
+2014,NL,STL,St. Louis,162,Division Winner,Y,3540649,Good
+2014,NL,WSN,Washington,162,Division Winner,Y,2579389,Average
+2014,NL,ARI,Arizona,162,Missed Playoffs,N,2073730,Average
+2014,NL,ATL,Atlanta,162,Missed Playoffs,N,2354305,Average
+2014,AL,BOS,Boston,162,Missed Playoffs,N,2956089,Good
+2014,AL,CHW,Chicago White Sox,162,Missed Playoffs,N,2652113,Average
+2014,NL,CHC,Chicago Cubs,162,Missed Playoffs,N,1650821,Poor
+2014,NL,CIN,Cincinnati,162,Missed Playoffs,N,2476664,Average
+2014,AL,CLE,Cleveland,162,Missed Playoffs,N,1437393,Poor
+2014,NL,COL,Colorado,162,Missed Playoffs,N,2680329,Average
+2014,AL,HOU,Houston,162,Missed Playoffs,N,1751829,Poor
+2014,NL,FLA,Miami,162,Missed Playoffs,N,1732283,Poor
+2014,NL,MIL,Milwaukee,162,Missed Playoffs,N,2797384,Good
+2014,AL,MIN,Minnesota,162,Missed Playoffs,N,2250606,Average
+2014,AL,NYY,New York Yankees,162,Missed Playoffs,N,3401624,Good
+2014,NL,NYM,New York Mets,162,Missed Playoffs,N,2148808,Average
+2014,NL,PHI,Philadelphia,162,Missed Playoffs,N,2423852,Average
+2014,NL,SDP,San Diego,162,Missed Playoffs,N,2195373,Average
+2014,AL,SEA,Seattle,162,Missed Playoffs,N,2064334,Poor
+2014,AL,TBD,Tampa Bay,162,Missed Playoffs,N,1446464,Poor
+2014,AL,TEX,Texas,162,Missed Playoffs,N,2718733,Average
+2014,AL,TOR,Toronto,162,Missed Playoffs,N,2375525,Average
+2014,AL,KCR,Kansas City,162,Wild Card,N,1956482,Poor
+2014,AL,OAK,Oakland,162,Wild Card,N,2003628,Poor
+2014,NL,PIT,Pittsburgh,162,Wild Card,N,2442564,Average
+2014,NL,SFG,San Francisco,162,Wild Card,N,3368697,Good
